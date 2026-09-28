@@ -4,7 +4,7 @@
   "rules": "Roster alpha testu BetterHUD DR3. Wpisy dodaje właściciel repo (edycja tego pliku + build). Numer musi być SteamID64 konta Steam (17 cyfr, zaczyna się od 7656119).",
   "players": [
     {
-      "steamid64": "76561198227702608",
+      "steamid64": "765611982277026",
       "nick": "dova",
       "role": "owner",
       "added": "2026-09-22",
