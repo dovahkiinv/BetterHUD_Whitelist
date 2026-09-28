@@ -1,0 +1,21 @@
+{
+  "list": "alpha-2026-09-22",
+  "updated": "2026-09-22",
+  "rules": "Roster alpha testu BetterHUD DR3. Wpisy dodaje właściciel repo (edycja tego pliku + build). Numer musi być SteamID64 konta Steam (17 cyfr, zaczyna się od 7656119).",
+  "players": [
+    {
+      "steamid64": "76561198227702608",
+      "nick": "dova",
+      "role": "owner",
+      "added": "2026-09-22",
+      "note": "właściciel repo (numer potwierdzony profilem Steam: steamcommunity.com/id/Dovahkiin_V)"
+    },
+    {
+      "steamid64": "76561198200686151",
+      "nick": "Krystian",
+      "role": "co-owner",
+      "added": "2026-09-22",
+      "note": "pomocnik do repo"
+    }
+  ]
+}
